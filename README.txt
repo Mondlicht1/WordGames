@@ -1,6 +1,6 @@
 ## Installation
 #### Project dependencies:
-  - This project use the Gson library from Google to read and write data in the JSON
+  - This project uses the Gson library from Google to read and write data in the JSON
   format.
   - Gson can be installed through Intellij by going through
     File -> Project Structure -> modules -> Dependencies -> '+' -> libraries -> From Maven
