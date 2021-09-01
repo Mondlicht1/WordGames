@@ -1,0 +1,14 @@
+{
+  "userId": "5",
+  "username": "asd",
+  "password": "1",
+  "role": "MEMBER",
+  "onlineStatus": "BANNED",
+  "gameCreations": [],
+  "registerDate": "Jul 31, 2021 10:31:58 AM",
+  "friendList": [],
+  "pendingFriendList": [
+    "2"
+  ],
+  "lastBanDate": "Sep 4, 2021 12:12:39 PM"
+}
