@@ -144,23 +144,12 @@ Online multiplayer games can be tested by having two accounts on two different t
   back in as the same trial user, and you'll access as the match creator so no
   one can start the game
 
-## A Response to the Phase 1 Feedback
-We really appreciate the time from the teaching team to give us helpful feedbacks on how to improve upon Phase 1.
-
-All of the bugs addressed in the feedback was taken care of. We also implemented
-a RESTful API, making the program a web-based application. In addition, we
-tried to eliminate a good number of exceptions. However, since the program is
-quite large and many new features were getting added, we felt that it was
-necessary to keep the number of exceptions to better distinguish the errors
-during development. We also felt that this would be appropriate since
-exceptions are just empty classes that don't depend on anything. They have
-little to no impact on the maintenance and the architecture of the program.
-That being said, we still merged some exceptions that were similar to each
-other, such as `InvalidGameIDException`, `InvalidUserIDException`, and
-`InvalidIDException`... etc.
-
-Also, as mentioned in Special Behaviours, we didn't have many _security_
-measures on the client side since they are not the focus of the project, but we
-hope we can receive more advices on how to tackle these sort of problems and
-how to improve in general, to hopefully someday have a program that is good
-enough for actual deployment.
+## Authors
+Tu Anh Pham
+Ching Chang
+Jin Long Cao
+Shivneel Mistry
+Monica Mukesh Sainani
+Zelong Liu
+Zachary Carmen Colavecchia
+Aidan Matthew Ferguson
