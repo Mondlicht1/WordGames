@@ -1,9 +1,0 @@
-{
-  "multipleChoice": false,
-  "chooseAllThatApply": false,
-  "hasMultipleScoreCategories": false,
-  "hasScoreWeight": false,
-  "hasCustomEndingMessage": false,
-  "id": "1",
-  "title": "Exact Answer Quiz"
-}
